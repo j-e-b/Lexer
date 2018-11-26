@@ -1,0 +1,8 @@
+var x, w;
+procedure k;
+    begin
+        const itIsSoLooooooooooooooooooooooooong = 5;
+    end;
+begin
+    call k
+end.

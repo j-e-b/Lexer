@@ -1,0 +1,10 @@
+const a = 1, b = 2;
+var x, w;
+begin
+    read x;
+    
+    while odd x do 
+        x := -x + 1;
+    
+    write x
+end.

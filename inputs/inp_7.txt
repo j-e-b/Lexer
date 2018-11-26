@@ -1,0 +1,8 @@
+var x, w;
+procedure k;
+    begin
+        const 1startswithnonletter = 5;
+    end;
+begin
+    call k
+end.

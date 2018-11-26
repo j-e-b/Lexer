@@ -1,0 +1,5 @@
+const a = 1, b = 2;
+var x, w;
+begin
+    read x;read y;x:=a+(a*b);y:=a+(a/b);write x;write y
+end.

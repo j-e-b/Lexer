@@ -1,0 +1,6 @@
+const MyConst = 0;
+var MyVar;
+begin
+MyVar:=MyConst;
+MyVar:=+9*-7/-1+2;
+end.

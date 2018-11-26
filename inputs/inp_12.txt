@@ -1,0 +1,6 @@
+const MyConst = 0;
+var MyVar;
+begin
+begin MyVar := MyConst end;
+begin end
+end.

@@ -1,0 +1,36 @@
+SUCCESS: No errors found in the source code.
+
+Token Type         Lexeme
+        28          const
+         2              a
+         9              =
+         3              1
+        17              ,
+         2              b
+         9              =
+         3              2
+        18              ;
+        29            var
+         2              x
+        17              ,
+         2              w
+        18              ;
+        21          begin
+        32           read
+         2              x
+        18              ;
+        25          while
+         8            odd
+         2              x
+        26             do
+         2              x
+        20             :=
+         5              -
+         2              x
+         4              +
+         3              1
+        18              ;
+        31          write
+         2              x
+        22            end
+        19              .

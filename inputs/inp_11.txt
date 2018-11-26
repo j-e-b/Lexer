@@ -1,0 +1,6 @@
+/* / / / / / / / / / / / / / / / */
+    const consta = 101;
+    begin
+if (consta) <> 202 then write consta
+    end
+.

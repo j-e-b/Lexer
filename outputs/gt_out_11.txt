@@ -1,0 +1,20 @@
+SUCCESS: No errors found in the source code.
+
+Token Type         Lexeme
+        28          const
+         2         consta
+         9              =
+         3            101
+        18              ;
+        21          begin
+        23             if
+        15              (
+         2         consta
+        16              )
+        10             <>
+         3            202
+        24           then
+        31          write
+         2         consta
+        22            end
+        19              .

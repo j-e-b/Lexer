@@ -1,0 +1,23 @@
+/* A code that is commented */
+var x, w;
+begin
+/* Read the followings:
+ * x
+ * w
+ * */
+    read w;
+    read x;
+    x := 5;
+    x := 3;
+    if w >= x then
+        w := w + 5
+    else
+        x := w;
+/*************************
+ * Write the followings:
+ * x
+ * w
+ *************************/
+    write x;
+    write w;
+end.

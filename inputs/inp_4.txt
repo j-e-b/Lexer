@@ -1,0 +1,23 @@
+const a = 1, b = 2;
+var x, w;
+begin
+    read x;
+    read w;
+    x := a / b;
+    w := a * b;
+    
+    write x;
+    write y;
+    
+    x := a + b;
+    y := a - b;
+    
+    write x;
+    write y;
+    
+    x := a + ( a * b );
+    y := a + ( a / b );
+    
+    write x;
+    write y
+end.

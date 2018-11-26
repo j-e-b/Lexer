@@ -1,0 +1,26 @@
+const a = 5, b = 5;
+var x, y;
+begin
+    x := a;
+    y := b;
+    if a < b then
+        x := a;
+        
+    if a > b then
+        x := a;
+        
+    if a <= b then
+        x := a;
+        
+    if a >= b then
+        x := a;
+        
+    if a <> b then
+        x := a;
+        
+    if a = b then
+        x := a;
+        
+    if odd a then
+        x := a;
+end.

@@ -1,0 +1,31 @@
+SUCCESS: No errors found in the source code.
+
+Token Type         Lexeme
+        28          const
+         2        MyConst
+         9              =
+         3              0
+        18              ;
+        29            var
+         2          MyVar
+        18              ;
+        21          begin
+         2          MyVar
+        20             :=
+         2        MyConst
+        18              ;
+         2          MyVar
+        20             :=
+         4              +
+         3              9
+         6              *
+         5              -
+         3              7
+         7              /
+         5              -
+         3              1
+         4              +
+         3              2
+        18              ;
+        22            end
+        19              .
