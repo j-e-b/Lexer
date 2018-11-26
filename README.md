@@ -1,5 +1,5 @@
 # Overview
-
+Implementation of a lexical analyzer for the programming language PL/0. Capable of doing lexical analysis on a given source program written in PL/0, identifying errors, and giving the source program's lexeme table (LexerOut).
 
 # Components
 
